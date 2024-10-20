@@ -15,6 +15,14 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
+# Large media files
+.mp4
+.tiff
+.avi
+.flv
+.mov
+.wmv
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
